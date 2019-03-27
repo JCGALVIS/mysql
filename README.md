@@ -10,3 +10,9 @@ Ejecutamos la siguiente linea de comando.
 Si no contando con el comando brew la instalamos de la siguiente manera: 
 `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
+## Definir contraseña usuario
+Para definir la contraseña se debe ejecutar el siguiente comando:
+
+##### mysql_secure_installation
+
+
