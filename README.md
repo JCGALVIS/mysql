@@ -15,4 +15,8 @@ Para definir la contraseña se debe ejecutar el siguiente comando:
 
 ##### mysql_secure_installation
 
+## Iniciar mysql
+
+##### mysql.server start
+
 
